@@ -29,14 +29,30 @@ div.top {
 
 h1.time {
     text-align: center;
+    font-size: 8em;
+    margin: -1em auto;
+    font-family: 'Anek Latin', sans-serif;
+}
+
+h2.greeting{
+    font-size: 3.5em;
+    display: flex;
+    justify-content: center;
+    margin: -1em auto;
+    letter-spacing: 6px;
+    font-family: 'Anek Latin', sans-serif;
 }
 
 div#crypto {
     font-size: 1.3rem;
+    padding: 1em 2em;
+    backdrop-filter: contrast(30%);
+    font-family: 'Merriweather', serif;
 }
 
 div#crypto > p {
     margin: 0;
+    padding: .25em;
 }
 
 div#crypto-top {
@@ -53,9 +69,12 @@ div#weather {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    justify-content: flex-end;
-    align-self: flex-start;
-    margin-top: -20px;
+    justify-content: center;
+    align-self:flex-start;
+    backdrop-filter: contrast(30%);
+    padding: 1em 0;
+    font-size: 1.2em;
+    font-family: 'Merriweather', serif;
 }
 
 div#weather > img {
@@ -63,10 +82,9 @@ div#weather > img {
 }
 
 p.weather-city {
-    width: 100%;
-    text-align: right;
+    width: 70%;
+    text-align: center;
     margin: 0;
-    margin-top: -10px;
 }
 
 p.weather-temp {
