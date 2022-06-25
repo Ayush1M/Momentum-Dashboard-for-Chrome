@@ -16,8 +16,6 @@ The project is focused on making a Chrome Extension to save URL of the websites 
 
 ## Screenshot
 
-![](./chromeextensionimage.png)
-
 
 ## Technologies I Used
 * Semantic HTML5
