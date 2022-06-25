@@ -1,5 +1,4 @@
-# Chrome Extension
-
+# Momentum Dashboard for Chrome
 ## Table of Content
 
  * [Overview of the Project](#overview-of-the-project)
