@@ -9,10 +9,11 @@
  * [Acknowledgement](#acknowledgement)
 
 # Overview of the Project
-The project is focused on making a Chrome Extension to save URL of the websites you want to save. The project also focuses on how to use Local storage to save the data.
+The project is focused on making a Momentum Dashboard for the browser and make it as a chrome extension so that the user can use it in their browser also.
 
 ### Goal of the Project
-* The Goal of this project is to create a chrome extension to save the websites you want.
+* The Goal of this project is install it as a chrome extension so the user can use it as a browser.
+* 
 
 ## Screenshot
 
