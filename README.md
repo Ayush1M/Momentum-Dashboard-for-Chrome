@@ -13,7 +13,10 @@ The project is focused on making a Momentum Dashboard for the browser and make i
 
 ### Goal of the Project
 * The Goal of this project is install it as a chrome extension so the user can use it as a browser.
-* 
+* See the new browser each time a new tab is opened.
+* See the new image if the unsplash API fails to load.
+* See the local weather conditions if the user give the location access.
+* See the current price of crytocurrency and its 24Hr highest and lowest price.
 
 ## Screenshot
 
