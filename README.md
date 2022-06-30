@@ -22,9 +22,10 @@ The project is focused on making a Momentum Dashboard for the browser and make i
 
 
 ## Technologies I Used
-* Semantic HTML5
-* CSS
-* Vanilla Javascript
+* Semantic HTML5.
+* CSS.
+* Vanilla Javascript.
+* API.
 
 ## What I Learned
 * Learned about DOM.
