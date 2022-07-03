@@ -17,7 +17,7 @@ The project is focused on making a Momentum Dashboard for the browser and make i
 * See the new image if the unsplash API fails to load.
 * See the local weather conditions if the user give the location access.
 * See the current price of crytocurrency and its 24Hr highest and lowest price.
-* Show the user the current time and greet them with good morning, afternoon, evening and night......
+* Show the user the current time and greet them with good morning, afternoon, evening and night.
 
 ## Screenshot
 
