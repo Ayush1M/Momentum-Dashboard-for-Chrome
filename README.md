@@ -21,11 +21,13 @@ The project is focused on making a Momentum Dashboard for the browser and make i
 
 ## Screenshot
 
+![](./Momentumdashboard.png)
+
 
 ## Technologies I Used
 * Semantic HTML5.
 * CSS.
-* Vanilla Javascript.
+* Javascript.
 * API.
 
 ## What I Learned
