@@ -38,7 +38,7 @@ function getCurrentTime() {
     document.getElementById("time").textContent = date.toLocaleTimeString("en-us", {hour12: false}, {timeStyle: "medium"})
 
 
-    if (curHr < 12)
+    if (curHr > 4 && curHr < 12)
         greet = 'Good Morning';
     else if (curHr >= 12 && curHr < 17)
         greet = 'Good Afternoon';
